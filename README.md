@@ -3,7 +3,7 @@ Utilizing a raspberry pi to collect temperature and humidity readings, which are
 
 
 ## Keywords
-sqlite3, raspberry_pi, json, javascript, bash, sql, highcharts
+sqlite3, raspberry pi, json, javascript, bash, sql, highcharts, dual axis angular guage, temperature, humidity, sensor, node.js
 
 ## Hardware
 - Raspberry Pi (any model will work)
