@@ -19,6 +19,11 @@ sqlite3, raspberry_pi, json, javascript, bash, sql, highcharts
 - an online host for your webpage (I am pushing data out from a private firewall, so cannot host on the pi itself)
 - highcharts js framework (https://www.highcharts.com)
 - raspberry pi pinout chart (https://pinout.xyz)
+- source: www.cl.cam.ac.uk/freshers/raspberrypi/tutorials/temperature/
+- source: http://jsfiddle.net/gh/get/jquery/3.1.1/highslide-software/highcharts.com/tree/master/samples/stock/demo/compare/
+- source: http://jsfiddle.net/g8gzh96n/
+- source: http://jsfiddle.net/highcharts/EjRLw/
+
 
 
 ## Example
