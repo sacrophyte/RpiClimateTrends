@@ -8,7 +8,7 @@ sqlite3, raspberry_pi, json, javascript, bash, sql, highcharts
 ## Hardware
 - Raspberry Pi (any model will work)
 - 5v 1A micro-usb power adapter
-- AM2302 temperature+humidity sensor (I highly recommend one that has the pull-up resistor included, and the solderless patch wires are a nice touch: www.amazon.com/dp/B01LXJALVW/ref=asc_df_B01LXJALVW5031340)
+- AM2302 temperature+humidity sensor (I highly recommend one that has the pull-up resistor included, and the solderless patch wires are a nice touch: www.amazon.com/dp/B01LXJALVW)
 
 ## optional hardware (to set up your raspberry pi)
 - keyboard/mouse/display (+ usb hub if you are short on usb ports)
